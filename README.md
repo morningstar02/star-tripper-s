@@ -1,3 +1,3 @@
 # star-tripper-server
 
-NodeJS + MongoDB - Simple API for Authentication, Registration and User Management
+NodeJS + MongoDB - API for Authentication, Registration and User Management
