@@ -1,0 +1,15 @@
+{
+  "name": "star-tripper",
+  "version": "1.0.0",
+  "description": "Tripping onto stars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/morningstar02/star-tripper-server"
+  },
+  "author": "morningstar02",
+  "license": "ISC"
+}
