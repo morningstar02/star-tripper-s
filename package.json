@@ -8,8 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "\u0016https://github.com/morningstar02/star-tripper-server"
+    "url": "https://github.com/morningstar02/star-tripper-server"
   },
   "author": "morningstar02",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.5",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.4.21",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  }
 }
